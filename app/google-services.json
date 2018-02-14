@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669448755309",
+    "firebase_url": "https://stevefood-b134a.firebaseio.com",
+    "project_id": "stevefood-b134a",
+    "storage_bucket": "stevefood-b134a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669448755309:android:8f53e26496c38da9",
+        "android_client_info": {
+          "package_name": "com.example.android.stevefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669448755309-gkuiqvotpb6126k3m89ev6mfimrlqs83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.stevefood",
+            "certificate_hash": "2463424cd8fb8336b46f03fad2405f44ae09e8d8"
+          }
+        },
+        {
+          "client_id": "669448755309-3ui73063c50srlsebre4ub1l3cra7qvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5P2u8RD1ZWotY-u08mOxFKdgMWryCpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669448755309-3ui73063c50srlsebre4ub1l3cra7qvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
